@@ -1,0 +1,23 @@
+@charset "UTF-8"
+
+body {
+    style="background-color: black;"
+    
+}
+
+h1 {
+    text-align: center;
+    color:black;
+}
+
+main {
+    text-align: center;
+    padding: 15px;
+    display: block;
+    
+
+}
+
+main > p {
+    margin: 2px;
+}
